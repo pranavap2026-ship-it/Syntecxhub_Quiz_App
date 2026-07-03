@@ -50,7 +50,7 @@ Simple-Quiz-App/
 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/pranavap2026-ship-it/Syntecxhub_Quiz_App
 ```
 
 2. Open the project folder
@@ -101,7 +101,7 @@ This project is licensed under the MIT License.
 
 **Pranav P**
 
-* GitHub: https://github.com/your-username
+* GitHub: https://github.com/pranavap2026-ship-it
 * LinkedIn: https://linkedin.com/in/your-profile
 
 ---
