@@ -99,7 +99,7 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-**Pranav P**
+**Pranav A P**
 
 * GitHub: https://github.com/pranavap2026-ship-it
 * LinkedIn: https://linkedin.com/in/your-profile
